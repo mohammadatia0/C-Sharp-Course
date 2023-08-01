@@ -1,0 +1,15 @@
+C:\Users\Mohammad.Atia\Desktop\C#_Learning\C-Sharp-Course\C# Code 1\bin\Debug\net7.0\C# Code 1.exe
+C:\Users\Mohammad.Atia\Desktop\C#_Learning\C-Sharp-Course\C# Code 1\bin\Debug\net7.0\C# Code 1.deps.json
+C:\Users\Mohammad.Atia\Desktop\C#_Learning\C-Sharp-Course\C# Code 1\bin\Debug\net7.0\C# Code 1.runtimeconfig.json
+C:\Users\Mohammad.Atia\Desktop\C#_Learning\C-Sharp-Course\C# Code 1\bin\Debug\net7.0\C# Code 1.dll
+C:\Users\Mohammad.Atia\Desktop\C#_Learning\C-Sharp-Course\C# Code 1\bin\Debug\net7.0\C# Code 1.pdb
+C:\Users\Mohammad.Atia\Desktop\C#_Learning\C-Sharp-Course\C# Code 1\obj\Debug\net7.0\C# Code 1.csproj.AssemblyReference.cache
+C:\Users\Mohammad.Atia\Desktop\C#_Learning\C-Sharp-Course\C# Code 1\obj\Debug\net7.0\C# Code 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad.Atia\Desktop\C#_Learning\C-Sharp-Course\C# Code 1\obj\Debug\net7.0\C# Code 1.AssemblyInfoInputs.cache
+C:\Users\Mohammad.Atia\Desktop\C#_Learning\C-Sharp-Course\C# Code 1\obj\Debug\net7.0\C# Code 1.AssemblyInfo.cs
+C:\Users\Mohammad.Atia\Desktop\C#_Learning\C-Sharp-Course\C# Code 1\obj\Debug\net7.0\C# Code 1.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad.Atia\Desktop\C#_Learning\C-Sharp-Course\C# Code 1\obj\Debug\net7.0\C# Code 1.dll
+C:\Users\Mohammad.Atia\Desktop\C#_Learning\C-Sharp-Course\C# Code 1\obj\Debug\net7.0\refint\C# Code 1.dll
+C:\Users\Mohammad.Atia\Desktop\C#_Learning\C-Sharp-Course\C# Code 1\obj\Debug\net7.0\C# Code 1.pdb
+C:\Users\Mohammad.Atia\Desktop\C#_Learning\C-Sharp-Course\C# Code 1\obj\Debug\net7.0\C# Code 1.genruntimeconfig.cache
+C:\Users\Mohammad.Atia\Desktop\C#_Learning\C-Sharp-Course\C# Code 1\obj\Debug\net7.0\ref\C# Code 1.dll
